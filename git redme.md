@@ -12,7 +12,7 @@ function recurse() {
 console.log(recurse());
 ```
 >Как это работает:
-![alt text](<pasted image 0.png>)
+![alt text](1.webp)
 
 _______________
 _______________
